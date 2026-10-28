@@ -1,4 +1,4 @@
-# Finance Analytics Nordic Retail Group
+# Nordic Retail Group: Finance Analytics 
 
 ## Project Overview
 
