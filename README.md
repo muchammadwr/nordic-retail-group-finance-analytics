@@ -43,8 +43,11 @@ The project is expected to produce a structured and validated financial dataset,
 ## Deliverables
 
 **Dashboard**
+<img src="./images/p&l.png" width="100%">
+<img src="./images/operation.png" width="100%">
+<img src="./images/scenario.png" width="100%">
 
-[]
+
 
 **Predictive Analytics**
 
